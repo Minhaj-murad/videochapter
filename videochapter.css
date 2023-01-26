@@ -1,0 +1,24 @@
+.user-panel-videochapter-video-size{
+    width: 200px;
+    height: auto;
+   
+    border-radius: 15px;
+}
+.user-panel-videochapter-thumbnail{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 270px;
+  border-radius: 5px;
+  
+}
+
+  @media only screen and (max-width: 600px) {
+    .user-panel-videochapter-right-lists {
+     display: inline-block;
+     justify-content: start;
+     align-items: start;
+    }
+    
+  }
